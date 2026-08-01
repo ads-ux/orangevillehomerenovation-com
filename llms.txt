@@ -1,0 +1,25 @@
+# Orangeville Home Renovation — Renovation Services Leads, Orangeville, Ontario
+
+> Connects Orangeville, Ontario homeowners and businesses needing home renovation work with a single vetted, exclusive local contractor. Part of the WeProvideLeads network of local-service lead generation sites.
+
+This site is a lead-generation and referral service, not a contracting company itself. Requests submitted through the contact form are matched with one qualified, exclusive contractor serving the area.
+
+## Services
+- Kitchen Renovations: Cabinetry, countertops, layout changes, and full gut renovations.
+- Bathroom Renovations: From a fresh vanity and tile to a complete accessible-bathroom rebuild.
+- Basement Finishing: Turn unused basement space into a legal, comfortable living area.
+- Whole-Home Renovations: Coordinated, multi-room renovations managed under one project timeline.
+- Flooring &amp; Interior Finishing: Hardwood, LVP, tile, trim, and paint — the details that finish a space.
+- Home Additions: Add square footage with additions that match your home's existing style.
+
+## Service area
+Orangeville, Shelburne, Grand Valley, Erin, Mono, Caledon Village
+
+## Key pages
+- Home: https://orangevillehomerenovation.com/
+- Sitemap: https://orangevillehomerenovation.com/sitemap.xml
+
+## Contact
+- Phone: {{PHONE_DISPLAY}}
+- Email: hello@orangevillehomerenovation.com
+- Service area: Orangeville, Ontario, Canada
